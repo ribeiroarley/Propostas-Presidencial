@@ -13,6 +13,7 @@
 - [3. Matriz Síntese de Prós, Contras e Riscos](#3-matriz-síntese-de-prós-contras-e-riscos)
 - [4. Análise de Viabilidade Fiscal e Capacidade de Execução](#4-análise-de-viabilidade-fiscal-e-capacidade-de-execução)
 - [5. Conclusão Técnica e Alinhamento ao Momento Econômico](#5-conclusão-técnica-e-alinhamento-ao-momento-econômico)
+- [6. Parecer Técnico Conclusivo e Análise de Viabilidade](#-parecer-técnico-conclusivo-e-análise-de-viabilidade)
 
 ---
 
@@ -283,3 +284,35 @@ A análise comparativa entre as diretrizes de Luiz Inácio Lula da Silva e Fláv
 - **Veredito sobre o Plano Flávio:** Apresenta maior **potencial de destravar a produtividade privada e a formação de capital de longo prazo**, alinhando o Brasil às práticas desregulatórias de economias de mercado competitivas. Todavia, seu custo de oportunidade reside na **alta probabilidade de inviabilidade política e legislativa**: ao prometer desonerações profundas no IVA sem dispor de maioria qualificada para aprovar emendas de desvinculação orçamentária das despesas obrigatórias, o programa corre o sério risco de gerar um colapso na prestação de serviços públicos básicos sem conseguir materializar a prometida redução tributária.
 
 Diante do equilíbrio macroeconômico atual do Brasil, **não existe escolha isenta de custos**: o plano de Lula compra inclusão social assumindo o risco da insolvência fiscal; o plano de Flávio compra disciplina de mercado assumindo o risco da governabilidade política e da vulnerabilidade social.
+
+---
+
+## 🎯 Parecer Técnico Conclusivo e Análise de Viabilidade
+
+### 1. Diagnóstico de Ancoragem Fiscal e Capacidade de Execução
+O orçamento federal brasileiro opera sob rigidez estrutural em que mais de **93% das despesas primárias são obrigatórias** (Previdência, folha salarial de servidores e vinculações constitucionais de Saúde e Educação). A Dívida Bruta do Governo Geral (DBGG) gravita entre 77% e 79% do PIB, onerando a curva longa de juros e o custo de financiamento nacional.
+
+```
+┌───────────────────────────────────────────────────────────────────────────────────────┐
+│                     DIAGNÓSTICO COMPARATIVO DE ANCORAGEM FISCAL                       │
+├────────────────────────────────────────┬──────────────────────────────────────────────┤
+│        PLANO LULA (Demanda)            │           PLANO FLÁVIO (Oferta)              │
+├────────────────────────────────────────┼──────────────────────────────────────────────┤
+│ • Mecanismo: Novo Arcabouço (LC 200)   │ • Mecanismo: Nova Regra Rígida de Teto       │
+│ • Âncora: Expansão da Arrecadação      │ • Âncora: Corte Nominal ("Tesouraço")        │
+│ • Risco Central: Inércia da despesa    │ • Risco Central: Insuficiência aritmética    │
+│   obrigatória acima do PIB potencial   │   dos cortes estritamente administrativos    │
+└────────────────────────────────────────┴──────────────────────────────────────────────┘
+```
+
+### 2. Síntese dos Custos de Oportunidade (Trade-offs)
+- **Modelo Lula (PT):** Assegura sustentação imediata da renda popular, expansão dos pisos sociais e investimentos estratégicos coordenados, mas sacrifica a descompressão dos juros longos (Selic) e assume o risco de elevação contínua da carga tributária sobre o capital produtivo.
+- **Modelo Flávio (PL):** Assegura incentivo direto à oferta privada, previsibilidade regulatória contratual de 20 anos e busca de superávits primários, mas sacrifica a rede de proteção social imediata e depende de reformas constitucionais de quórum qualificado (3/5) com alto risco de paralisia legislativa.
+
+### 3. Veredito Técnico e Pré-Requisitos Críticos
+- **Estabilidade Macroeconômica e Custo de Capital:** Adesão superior do **Plano Flávio**, por atuar diretamente na contenção do gasto estatal e redução do prêmio de risco.
+- **Redução de Desigualdades e Estímulo Imediato:** Adesão superior do **Plano Lula**, pela alta propensão marginal a consumir das famílias beneficiadas pelo salário-mínimo e transferências.
+- **Parecer Síntese:** O plano de Lula possui maior **coerência institucional de partida** (marcos vigentes), mas exige desindexar despesas obrigatórias para não colapsar o Arcabouço; o plano de Flávio possui maior **coerência com a solvência da dívida a longo prazo**, mas exige quórum qualificado (3/5) nos primeiros 100 dias para aprovar PECs fiscais e não gerar um rombo orçamentário.
+
+👉 Para a leitura detalhada com todos os mecanismos de transmissão, consulte [outputs/parecer_tecnico_conclusivo.md](outputs/parecer_tecnico_conclusivo.md).
+
