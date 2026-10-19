@@ -1,0 +1,13 @@
+# Python & Ambientes
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e Temporários
+*.log
+.DS_Store
+.vscode/
+.idea/
